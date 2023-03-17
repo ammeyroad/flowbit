@@ -1,9 +1,6 @@
 <template>
-  <main class="min-h-screen bg-gray-100 p-4">
-    <HelloWorld />
-  </main>
+ <main class="app">
+		<router-view></router-view>
+	</main>
 </template>
 
-<script setup>
-import HelloWorld from './components/HelloWorld.vue';
-</script>
