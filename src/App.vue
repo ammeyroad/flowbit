@@ -1,5 +1,5 @@
 <template>
-  <main class="min-h-screen bg-gray-100 p-12">
+  <main class="min-h-screen bg-gray-100 p-4">
     <HelloWorld />
   </main>
 </template>
